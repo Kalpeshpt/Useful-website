@@ -5,7 +5,7 @@
 - [Google](https://www.google.com/)
 - [OSINT Frame work](https://osintframework.com/) - Collection of Website
 - [ViewDNSinfo](https://viewdns.info/) - For information of ip domainame
-- [Temp Mail](https://temp-mail.org/en/) - Create a Temporary
+- [Temp Mail](https://temp-mail.org/en/) - Create a Temporary Mail
 - [ChatGPT](https://chat.openai.com) 
 - [vulnhub](https://www.vulnhub.com/) - Free pentest Lab
 - [port swigger](https://portswigger.net/) - Free Web Pentest Lab 
